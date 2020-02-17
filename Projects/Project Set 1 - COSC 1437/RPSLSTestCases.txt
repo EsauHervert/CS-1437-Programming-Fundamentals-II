@@ -1,0 +1,149 @@
+Test 1
+=======================================================================
+Winner is 2 out of 3.
+
+The options are the following:
+(1) - Rock
+(2) - Paper
+(3) - Scissors
+(4) - Lizard
+(5) - Spock
+
+Your choice is: 1
+
+Your choice was: Rock
+The computer's choice was: Scissors
+Rock Crushes Scissors.
+
+The score is:
+User: 1
+Computer: 0
+Draw: 0
+
+The options are the following:
+(1) - Rock
+(2) - Paper
+(3) - Scissors
+(4) - Lizard
+(5) - Spock
+
+Your choice is: 2
+
+Your choice was: Paper
+The computer's choice was: Scissors
+Scissors Cuts Paper.
+
+The score is:
+User: 1
+Computer: 1
+Draw: 0
+
+The options are the following:
+(1) - Rock
+(2) - Paper
+(3) - Scissors
+(4) - Lizard
+(5) - Spock
+
+Your choice is: 3
+
+Your choice was: Scissors
+The computer's choice was: Paper
+Scissors Cuts Paper.
+
+The score is:
+User: 2
+Computer: 1
+Draw: 0
+
+The winner is User. Thanks for playing.
+Press any key to continue . . .
+
+Test 2
+==========================================================================
+Winner is 2 out of 3.
+
+The options are the following:
+(1) - Rock
+(2) - Paper
+(3) - Scissors
+(4) - Lizard
+(5) - Spock
+
+Your choice is: 4
+
+Your choice was: Lizard
+The computer's choice was: Scissors
+Scissors Decapitate Lizard.
+
+The score is:
+User: 0
+Computer: 1
+Draw: 0
+
+The options are the following:
+(1) - Rock
+(2) - Paper
+(3) - Scissors
+(4) - Lizard
+(5) - Spock
+
+Your choice is: 5
+
+Your choice was: Spock
+The computer's choice was: Scissors
+Spock Smashes Scissors
+
+The score is:
+User: 1
+Computer: 1
+Draw: 0
+
+The options are the following:
+(1) - Rock
+(2) - Paper
+(3) - Scissors
+(4) - Lizard
+(5) - Spock
+
+Your choice is: 5
+
+Your choice was: Spock
+The computer's choice was: Spock
+The Choices are the same.
+
+The score is:
+User: 1
+Computer: 1
+Draw: 1
+
+The options are the following:
+(1) - Rock
+(2) - Paper
+(3) - Scissors
+(4) - Lizard
+(5) - Spock
+
+Your choice is: 6
+The value 6 is not a valid option.
+
+The options are the following:
+(1) - Rock
+(2) - Paper
+(3) - Scissors
+(4) - Lizard
+(5) - Spock
+
+Your choice is: 5
+
+Your choice was: Spock
+The computer's choice was: Lizard
+Lizard Poisons Spock.
+
+The score is:
+User: 1
+Computer: 2
+Draw: 1
+
+The winner is Computer. Thanks for playing.
+Press any key to continue . . .

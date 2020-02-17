@@ -1,0 +1,25 @@
+Test 1
+************************************************************************************************************************************************
+
+Please enter the x coordinate of the circle's center: 0
+Please enter the y coordinate of the circle's center: 6
+Please enter the radius of the circle: 12
+The area of the circle is 452.389
+
+Please enter the length of the rectangle: 20
+Please enter the width of the rectangle: 10
+The area of the rectangle is 200
+Press any key to continue . . .
+
+Test 2
+************************************************************************************************************************************************
+
+Please enter the x coordinate of the circle's center: 5
+Please enter the y coordinate of the circle's center: 2
+Please enter the radius of the circle: 15
+The area of the circle is 706.858
+
+Please enter the length of the rectangle: 12
+Please enter the width of the rectangle: 7
+The area of the rectangle is 84
+Press any key to continue . . .

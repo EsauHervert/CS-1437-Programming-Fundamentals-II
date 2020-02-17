@@ -1,0 +1,17 @@
+Test 1
+******************************************************************************************************************
+
+Population Statistics
+        Population: 230000
+        Birth Rate: 0.0010
+        Death Rate: 0.0001
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+Population Statistics
+        Population: 420000
+        Birth Rate: 0.0002
+        Death Rate: 0.0001
+Press any key to continue . . .

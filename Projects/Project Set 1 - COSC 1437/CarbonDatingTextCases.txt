@@ -1,0 +1,62 @@
+Test 1.
+=============================================================================
+This program will calculate the estimated age of a sample using Carbon-14.
+The formula to be used will be:
+
+t = (T / ln(2) * ln(1 + D / P))
+
+Where:
+t       -  age of the sample in years
+T       -  half-life of Carbon-14 ,5730 years
+ln      -  natural logarithm
+D       -  amount of Carbon-14 in a given dead sample
+P       -  amount of Carbon-14 in a living species today
+
+Please enter the ratio D / P: .5
+
+The approximate age of this sample is: 3351.84 years
+
+would you like to calculate a different sample?
+
+Enter y for yes and n for no.
+y
+
+Please enter the ratio D / P: .5
+
+The approximate age of this sample is: 3351.84 years
+
+would you like to calculate a different sample?
+
+Enter y for yes and n for no.
+n
+
+Thank you for using this program. Have a wonderful day.
+
+Press any key to continue . . .
+
+Test 2
+==========================================================================
+This program will calculate the estimated age of a sample using Carbon-14.
+The formula to be used will be:
+
+t = (T / ln(2) * ln(1 + D / P))
+
+Where:
+t       -  age of the sample in years
+T       -  half-life of Carbon-14 ,5730 years
+ln      -  natural logarithm
+D       -  amount of Carbon-14 in a given dead sample
+P       -  amount of Carbon-14 in a living species today
+
+Please enter the ratio D / P: .6
+
+The approximate age of this sample is: 3885.35 years
+
+would you like to calculate a different sample?
+
+Enter y for yes and n for no.
+n
+
+Thank you for using this program. Have a wonderful day.
+
+Press any key to continue . . .

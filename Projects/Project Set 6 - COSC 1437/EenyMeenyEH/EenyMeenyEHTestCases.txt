@@ -1,0 +1,55 @@
+Test 1
+******************************************************************************************************************
+
+Enter the number of players (between 1 and 500): 8
+4 leaves.
+2 leaves.
+5 leaves.
+3 leaves.
+1 leaves.
+7 leaves.
+6 leaves.
+
+8 is it.
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+Enter the number of players (between 1 and 500): 27
+20 leaves.
+13 leaves.
+7 leaves.
+2 leaves.
+25 leaves.
+22 leaves.
+19 leaves.
+18 leaves.
+21 leaves.
+24 leaves.
+1 leaves.
+6 leaves.
+12 leaves.
+26 leaves.
+10 leaves.
+3 leaves.
+17 leaves.
+16 leaves.
+27 leaves.
+9 leaves.
+5 leaves.
+11 leaves.
+8 leaves.
+4 leaves.
+15 leaves.
+14 leaves.
+
+23 is it.
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+Enter the number of players (between 1 and 500): 501
+Exception: Value out of bounds.
+Press any key to continue . . .

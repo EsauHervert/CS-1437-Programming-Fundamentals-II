@@ -1,0 +1,15 @@
+Test 1
+************************************************************************************************************************************************
+
+Symphonie Fantastique was written by Berlioz in 1780
+Star Spangled Banner was written by Key in 1778
+It is the national anthem of U.S.
+Press any key to continue . . .
+
+Test 2
+************************************************************************************************************************************************
+
+Swan Lake was written by Tchaikovsky in 1876
+Amhran na bhFiann was written by Kearney in 1907
+It is the national anthem of Ireland
+Press any key to continue . . .

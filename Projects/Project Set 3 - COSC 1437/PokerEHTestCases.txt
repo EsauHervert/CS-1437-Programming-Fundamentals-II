@@ -1,0 +1,229 @@
+TEST 1
+***************************************************************************************************************
+
+Enter player 1 name: James
+Enter player 2 name: Morgan
+
+James
+Enter card 1: TC
+Enter card 2: 2D
+Enter card 3: 2D
+Duplicate Card, Try again.
+Enter card 3: 5H
+Enter card 4: 5C
+Enter card 5: 5D
+
+Morgan
+Enter card 1: KS
+Enter card 2: JS
+Enter card 3: S9
+Bad Card. Try again.
+Enter card 3: 9S
+Enter card 4: 2S
+Enter card 5: 3S
+
+James: TC 2D 5H 5C 5D : Three of a Kind, 5's High.
+
+Morgan: KS JS 9S 2S 3S : Flush, Spades, K High.
+
+Morgan Winner!
+
+Play again (Y/N)? Y
+
+James
+Enter card 1: AD
+Enter card 2: JH
+Enter card 3: 9S
+Enter card 4: 5D
+Enter card 5: 3C
+
+Morgan
+Enter card 1: AS
+Enter card 2: TD
+Enter card 3: yC
+Bad Card. Try again.
+Enter card 3: 9C
+Enter card 4: 6H
+Enter card 5: 4H
+
+James: AD JH 9S 5D 3C : High Card, J High.
+
+Morgan: AS TD 9C 6H 4H : High Card, T High.
+
+James Winner!
+
+Play again (Y/N)? y
+
+James
+Enter card 1: AD
+Enter card 2: JH
+Enter card 3: 9S
+Enter card 4: 6D
+Enter card 5: 4C
+
+Morgan
+Enter card 1: AS
+Enter card 2: JD
+Enter card 3: 9C
+Enter card 4: 6H
+Enter card 5: 4H
+
+James: AD JH 9S 6D 4C : High Card, J High.
+
+Morgan: AS JD 9C 6H 4H : High Card, J High.
+
+Tie- split pot!!
+
+Play again (Y/N)? n
+
+Press any key to continue . . .
+
+TEST 2
+***************************************************************************************************************
+
+Enter player 1 name: Esau
+Enter player 2 name: Esau2
+
+Esau
+Enter card 1: AD
+Enter card 2: KD
+Enter card 3: QD
+Enter card 4: JD
+Enter card 5: TD
+
+Esau2
+Enter card 1: QC
+Enter card 2: JC
+Enter card 3: TC
+Enter card 4: 9C
+Enter card 5: 8C
+
+Esau: AD KD QD JD TD : Royal Flush!
+
+Esau2: QC JC TC 9C 8C : Straight Flush, Q's High.
+
+Esau Winner!
+
+Play again (Y/N)? Y
+
+Esau
+Enter card 1: 5D
+Enter card 2: 4D
+Enter card 3: 3D
+Enter card 4: 2D
+Enter card 5: AD
+
+Esau2
+Enter card 1: 9C
+Enter card 2: 9S
+Enter card 3: 9D
+Enter card 4: 9H
+Enter card 5: JH
+
+Esau: 5D 4D 3D 2D AD : Straight Flush, 5's High.
+
+Esau2: 9C 9S 9D 9H JH : Four of a Kind, 9's High.
+
+Esau Winner!
+
+Play again (Y/N)? y
+
+Esau
+Enter card 1: 7S
+Enter card 2: 7D
+Enter card 3: 7H
+Enter card 4: 4C
+Enter card 5: 4S
+
+Esau2
+Enter card 1: QD
+Enter card 2: 9D
+Enter card 3: 7D
+Duplicate Card, Try again.
+Enter card 3: 6D
+Enter card 4: 4D
+Enter card 5: 3D
+
+Esau: 7S 7D 7H 4C 4S : Full House, 7's High.
+
+Esau2: QD 9D 6D 4D 3D : Flush, Diamonds, Q High.
+
+Esau Winner!
+
+Play again (Y/N)? t
+
+That was not a valid input, please enter either (Y|y) or (N|n): Y
+
+Esau
+Enter card 1: AC
+Enter card 2: KC
+Enter card 3: QD
+Enter card 4: JS
+Enter card 5: TS
+
+Esau2
+Enter card 1: 5S
+Enter card 2: 4D
+Enter card 3: 3D
+Enter card 4: 2S
+Enter card 5: AD
+
+Esau: AC KC QD JS TS : Straight, K's High.
+
+Esau2: 5S 4D 3D 2S AD : Straight, 5's High.
+
+Esau Winner!
+
+Play again (Y/N)? y
+
+Esau
+Enter card 1: QS
+Enter card 2: QD
+Enter card 3: QH
+Enter card 4: 7S
+Enter card 5: 4C
+
+Esau2
+Enter card 1: TS
+Enter card 2: TC
+Enter card 3: 8H
+Enter card 4: 8C
+Enter card 5: AD
+
+Esau: QS QD QH 7S 4C : Three of a Kind, Q's High.
+
+Esau2: TS TC 8H 8C AD : Two Pair, T's High.
+
+Esau Winner!
+
+Play again (Y/N)? Y
+
+Esau
+Enter card 1: 4H
+Enter card 2: 4S
+Enter card 3: KS
+Enter card 4: DT
+Bad Card. Try again.
+Enter card 4: TD
+Enter card 5: 5S
+
+Esau2
+Enter card 1: KH
+Enter card 2: TD
+Duplicate Card, Try again.
+Enter card 2: JH
+Enter card 3: 8C
+Enter card 4: 7D
+Enter card 5: 4S
+Duplicate Card, Try again.
+Enter card 5: 4C
+
+Esau: 4H 4S KS TD 5S : One Pair, 4's High.
+
+Esau2: KH JH 8C 7D 4C : High Card, K High.
+
+Esau Winner!
+
+Play again (Y/N)? N
+
+Press any key to continue . . .

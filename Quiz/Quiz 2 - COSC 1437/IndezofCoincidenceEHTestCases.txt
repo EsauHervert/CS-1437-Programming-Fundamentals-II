@@ -1,0 +1,44 @@
+Test 1
+******************************************************************************************************************
+
+This program will compare two strings excluding spaces and see how similar they are.
+
+Enter the first string: Wonder who wrote the book on love
+Enter the second string: weallliveinayellowsubmarine
+
+The index of coincidence is: 11.1%
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+This program will compare two strings excluding spaces and see how similar they are.
+
+Enter the first string: Hervert
+Enter the second string: Hornets
+
+The index of coincidence is: 42.9%
+Press any key to continue . . .
+
+Test 3
+******************************************************************************************************************
+
+This program will compare two strings excluding spaces and see how similar they are.
+
+Enter the first string: Banana Phone
+Enter the second string: Panama Canal
+
+
+The index of coincidence is: 36.4%
+Press any key to continue . . .
+
+Test 4
+******************************************************************************************************************
+
+This program will compare two strings excluding spaces and see how similar they are.
+
+Enter the first string: Short
+Enter the second string: ReallyReallyReallyLong
+
+The strings are not of the same length.
+Press any key to continue . . .

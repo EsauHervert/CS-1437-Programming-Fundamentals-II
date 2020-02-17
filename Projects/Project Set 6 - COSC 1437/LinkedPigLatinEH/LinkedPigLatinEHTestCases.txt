@@ -1,0 +1,26 @@
+Test 1
+******************************************************************************************************************
+
+Enter a string: eye
+
+The string you entered is: eye
+The Pig Latin form of the string: eye-way
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+Enter a string: There
+
+The string you entered is: There
+The Pig Latin form of the string: ere-Thay
+Press any key to continue . . .
+
+Test 3
+******************************************************************************************************************
+
+Enter a string: 1234
+
+The string you entered is: 1234
+The Pig Latin form of the string: 1234-way
+Press any key to continue . . .
