@@ -4,44 +4,44 @@ This is the C++ code that I wrote for Programming Fundamentals II the Fall of 20
 The files are organized into 6 projects and 4 quizzes. The following is methodology and algorithms are involved:
 
 Project 1:
-  
-  Functional Programming
-  Games
+
+    Functional Programming
+    Games
  
 Project 2:
 
-  Turning Strings into bowling scores
+    Turning Strings into bowling scores
   
 Project 3:
 
-  Created a game of Poker
+    Created a game of Poker
   
 Project 4:
 
-  Classes
+    Classes
   
 Project 5:
 
-  Inheritance of Classes
+    Inheritance of Classes
   
 Project 6:
 
-  Linked List
+    Linked List
   
 Quiz 1:
   
-  Functional Programming
+    Functional Programming
   
 Quiz 2:
   
-  Sorting Algorithms
-  String Comparison
+    Sorting Algorithms
+    String Comparison
   
 Quiz 3:
 
-  Classes
-  Friendship of Classes
+    Classes
+    Friendship of Classes
   
 Quiz 4:
 
-  Recursion
+    Recursion
