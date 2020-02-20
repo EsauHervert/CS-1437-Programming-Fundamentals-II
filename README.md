@@ -1,7 +1,7 @@
 # CS-1437-Programming-Fundamentals-II
 This is the C++ code that I wrote for Programming Fundamentals II the Fall of 2016 at Tarrant County Community College.
 
-The files are organized into 6 projects and 4 quizzes. The following is methodology and algorithms are involved:
+The files are organized into 6 projects and 4 quizzes. The following methodology and algorithms are involved:
 
 Project 1:
 
